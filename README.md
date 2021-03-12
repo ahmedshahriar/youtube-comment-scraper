@@ -8,7 +8,7 @@ It requires **pandas**, **lxml** and **requests** modules
 
 To run
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 `python ytb_comment_scraper.py`
 
