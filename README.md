@@ -1,4 +1,5 @@
 # Parse Comments from Youtube Videos
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 This script will dump youtube video comments to a CSV from youtube video links. Video links can be placed inside a variable or list or CSV
 
@@ -12,7 +13,7 @@ To run :
 
 `python ytb_comment_scraper.py`
 
-By default, the script will download most recent 100 comments\
+By default, the script will download most recent 100 comments
 
 The comments will be dumped to a CSV file
 
